@@ -1,0 +1,20 @@
+.education {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+    text-align: center;
+}
+
+.education li {
+    max-width: 100px;
+}
+
+.education  li  img {
+    height: 100px;
+}
+
+.education  li p {
+    margin: auto;
+}
